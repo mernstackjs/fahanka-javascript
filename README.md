@@ -23,7 +23,7 @@ Haddii aad dooneyso inaad ku darto casharo ama ka qayb qaadato mashruucan, fadla
 
 ### Xiriirkaaga:
 Waxaan jeclaan lahaa in aan la xiriirno bulshada, waana tan xiriiriyadayda bulshada:
-- **Twitter**: [@programwithahmed](https://tr.ee/3xvZKaIGjY)
+- **Twitter**: [@programwithahmed](https://x.com/programwithahme)
 - **Telegram**: [@programwithahmed](https://t.me/programwithahmed)
 
 ### Waad ku mahadsan tahay!
