@@ -1,5 +1,5 @@
-function iskuGey(b, t) {
-  return b + t;
+function SayHello(name) {
+  return `ASC ${name} Soo Dhawoow !`;
 }
 
-console.log(iskuGey(4, 9));
+SayHello("Ahmed");
