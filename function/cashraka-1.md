@@ -4,15 +4,6 @@
 
 Casharkan, waxaan ku baran doonaa JavaScrip Functions, oo ah mid ka mid ah waxyaabaha aasaasiga u ah barnaamijyada JavaScript. Functions waa code dib loo isticmaali karo oo hawl gaar ah qabta. Waxay naga caawiyaan habaynta code-ka oo ay ka dhigaan mid habaysan.
 
-## Objectives
-
-By the end of this lesson, you should be able to:
-
-- Define what a function is in JavaScript.
-- Understand the syntax for declaring functions.
-- Call functions and pass arguments to them.
-- Return values from functions.
-
 ## Ujeedooyinka
 
 Dhammaadka casharkan, waa inaad awood u yeelataa:
@@ -34,3 +25,14 @@ function functionMagac(parameters) {
   // code to be executed
 }
 ```
+
+# Si aad u fahanto javascript function
+
+waa in aad si fiican u fahantaa
+
+- Syntax
+- paramater
+- function keyword
+- function name
+- argument
+- excute
