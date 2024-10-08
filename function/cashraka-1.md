@@ -25,3 +25,14 @@ function functionMagac(parameters) {
   // code to be executed
 }
 ```
+
+# Si aad u fahanto javascript function
+
+waa in aad si fiican u fahantaa
+
+- Syntax
+- paramater
+- function keyword
+- function name
+- argument
+- excute
